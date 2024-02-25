@@ -1,0 +1,250 @@
+img{
+
+    width: 40px;
+    height: 40px; 
+    margin-right: 5px;
+}
+NavLink{
+ color: white;
+}
+footer{
+    background-color: azure;
+}
+textarea{
+    padding-left: 5px;
+}
+.n{
+ text-decoration: none;
+ color: white;
+ padding: 15px ;
+ font-size: larger;
+}
+.s{
+    position:relative;
+}
+.size-p{
+    height: 30px;
+    width: 30px;
+}
+.fb{
+    
+    background-color: white;
+    padding: 50px;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 5px;
+}
+.al{
+    text-align: center;
+}
+.up{
+    color: white;
+    display: flex;
+    justify-content: left;
+    padding-right: 50px;
+    margin-top: 0%;
+    background-color: orangered;
+    font-size: 13px;
+    padding: 7px;
+}
+.footbg{
+    background-color: orangered;
+    color: white;
+    margin-top: 10%;
+}
+.dh3{
+    font-weight: bold; 
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.container{
+margin-top: 2%;
+
+}
+.heading{
+    padding-left: 30px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px ;
+}
+input{
+    padding: 10px;
+    width: 200px;
+    height: 1cm;
+    border-radius: 5px;
+}
+label{
+    font-size: 20px;
+    font-weight: 30px;
+}
+.button-2{
+    border-radius: 5px;    
+    text-align: center;
+    width: 3cm;
+    /* padding: 10px; */
+    height: px;
+    font-size: 20px;
+    background-color: orangered;
+    color: white;
+    /* margin-left: 190px; */
+}
+.po{
+    font-size: 15px;
+    padding: 3px;
+    margin-left: 60px;
+    margin: 0px;
+
+}
+form{
+    text-align: center;
+}
+#prf{
+    color: red;
+    padding-left: 25px;
+}
+#prs{
+    color: red;
+    padding-left: 25px;
+}
+#results{
+    color:  orangered;
+    padding-top: 30px;
+    font-size: 30px;
+    padding-bottom: 10px;
+    margin-left: 70px;
+}
+#resultstwo{
+    margin-left: 70px;
+    font-size: 30px;
+}
+.card-b{
+    
+    margin-left: 650px;
+    margin-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+} 
+
+
+.logo{
+    width: 45px;
+    float: left;
+    margin-left: -5px;
+    height: 600px;
+    margin-top: 5px;
+    width: 500px;
+}
+.logo-h{
+    float: left;
+    width: 70px;
+    height: 40px;
+    
+}
+.logo-3{
+    float: right;
+    width: 500px;
+    height: 300px;
+    margin-right: 60px;
+    margin-top: 50px;
+}
+.lp{
+    margin-left: 80px;
+    margin-top: 2px;
+    color: red;
+}
+
+.we{
+    color: salmon;
+}
+
+#skyblue{
+    background-color: rgb(57, 179, 227);
+    color: white;
+}
+#green{
+    background-color: green;
+    color: white;
+}
+#yellow{
+    background-color: orange;
+    color: white;
+}
+#red{
+    background-color: red;
+    color: white;
+}
+#dred{
+    background-color: rgb(218, 15, 15);
+    color: white;
+}
+
+/* part 2 */
+.p2{
+    width: 500px;
+    height: 350px;
+    margin-top: 13px;
+    margin-left: 25px;
+}
+.pic-3{
+    float: right;
+    margin-right: 40px;
+    height: 300px;
+    width: 600px;
+    margin-top: 60px;
+}
+
+/* contact */
+.i-box{
+    height: 400px;
+    width: 500px;
+    border: 1px solid black;
+    margin-top: 30px;
+    padding-top: 5px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+    padding-bottom: 40px;
+
+}
+.ie{
+    width: 410px;
+    margin-top: 15px;
+    
+    
+}
+.s1{
+    margin-right: 10px;
+    
+   
+}
+.s2{
+    border-color: 2px orangered;
+}
+.s-box{
+    margin-top: 30px;
+}
+.c-btn{
+    background-color: orangered;
+    color: white;
+    padding: 5px 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.main-box{
+    margin-left: 50%;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.con-logo{
+    width: 45px;
+    float: left;
+    margin-left: 120px;
+    height: 400px;
+    margin-top: 60px;
+    width: 400px;
+}
